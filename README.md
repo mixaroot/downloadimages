@@ -1,8 +1,8 @@
 ﻿# downloadimages
 
-﻿# Example install
+# Example install
 composer require mixaroot/downloadimages dev-master --prefer-dist
-﻿# Example Usage 
+# Example Usage 
 Please create folder images in root of project
 
 Please create index.php in root with:
