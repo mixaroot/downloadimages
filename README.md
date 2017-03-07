@@ -1,7 +1,7 @@
 ﻿# downloadimages
 
 # Example install
-composer require mixaroot/downloadimages dev-master
+composer require mixaroot/downloadimages dev-master --prefer-dist
 # Example Usage 
 Please create folder images in root of project
 
