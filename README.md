@@ -5,7 +5,7 @@ composer require mixaroot/downloadimages dev-master --prefer-dist
 # Example Usage 
 Please create folder images in root of project
 
-index.php
+Please create index.php in root with:
 
 ```
 require_once "vendor/autoload.php";
