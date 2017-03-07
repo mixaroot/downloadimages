@@ -1,0 +1,39 @@
+{
+  "name": "mixaroot/downloadimages",
+  "description": "Download images",
+  "keywords": [
+    "download",
+    "jpg",
+    "png",
+    "gif"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mikhail Shcherbak",
+      "email": "pochtacvs@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "require-dev": {
+    "codeception/codeception": "2.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mixaroot\\Downloadimages\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Mixaroot\\Downloadimages\\Test\\": "tests/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}
