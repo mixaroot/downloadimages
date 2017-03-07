@@ -3,6 +3,10 @@
 # Example install
 composer require mixaroot/downloadimages dev-master
 # Example Usage 
+Please create folder images in root of project
+
+index.php
+
 ```
 require_once "vendor/autoload.php";
 $imageTest = 'https://www.w3schools.com/css/paris.jpg';
